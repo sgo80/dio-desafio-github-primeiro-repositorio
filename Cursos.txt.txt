@@ -1,0 +1,5 @@
+1-Git-Github
+2-Linux
+3-Ia Generativas
+4-Phyton
+5-Fundamentos de Ia
