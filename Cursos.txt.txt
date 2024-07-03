@@ -3,3 +3,4 @@
 3-Ia Generativas
 4-Phyton
 5-Fundamentos de Ia
+6-ChatGpt
